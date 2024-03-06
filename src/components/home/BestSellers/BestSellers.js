@@ -35,7 +35,7 @@ const BestSellers = () => {
           _id="1013"
           img={bestSellerThree}
           productName="Household materials"
-          price="25.00"
+          price="259.00"
           color="Mixed"
           badge={true}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
@@ -44,7 +44,7 @@ const BestSellers = () => {
           _id="1014"
           img={bestSellerFour}
           productName="Travel Bag"
-          price="220.00"
+          price="290.00"
           color="Black"
           badge={false}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
